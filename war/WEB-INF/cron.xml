@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/cron/refollow</url>
+		<description>refollow</description>
+		<schedule>every 2 minutes</schedule>
+		<timezone>Asia/Tokyo</timezone>
+	</cron>
+	<cron>
+		<url>/cron/unfollow</url>
+		<description>unfollow</description>
+		<schedule>every 2 minutes</schedule>
+		<timezone>Asia/Tokyo</timezone>
+	</cron>
+</cronentries>
